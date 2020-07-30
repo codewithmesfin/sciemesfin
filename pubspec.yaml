@@ -1,0 +1,29 @@
+name: eesand
+description: A new Flutter course app.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  rxdart: ^0.22.2
+  firebase_auth: ^0.14.0+5
+  country_code_picker: ^1.1.7
+  pin_view: ^1.0.1
+  video_player: ^0.10.11+1
+  connectivity: ^0.4.8+6
+  provider: ^2.0.1
+  badges: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
