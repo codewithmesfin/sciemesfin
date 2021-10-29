@@ -2,7 +2,8 @@
 
 Software Engineer
 
-## Getting Started
+## Programing Languges,DBMSs, Libraries, and Frameworks used
+### Java, Vue js, Angular, React js, Flutter, Dart, C#, C++, Python, Rubi on Rails, Node js, Loopback, Deno js, GoLang, Firebase, Google APIs, Facebook APIs, Salesforce, MySQL, DynamoDB, MongoDb, Pytorch, Tensor Flow, Scrum, Kanban.
 
 This project is a starting point for a Flutter application.
 
