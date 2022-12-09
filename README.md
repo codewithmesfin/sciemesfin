@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sciemesfin" alt="sciemesfin" /></a> </p>
 
-- 🔭 I’m currently working on [Bizenforce website](https://github.com/sciemesfin/bizenforce-Nuxt3)
-
-- 👯 I’m looking to collaborate on [Learning App](https://github.com/sciemesfin/sciemesfin)
-
 - 👨‍💻 All of my projects are available at [https://github.com/sciemesfin?tab=repositories](https://github.com/sciemesfin?tab=repositories)
 
 - 💬 Ask me about **React, Vue, Nextjs, Nuxtjs, React Native, Flutter, Nodejs, GraphQL, TypeScript**
